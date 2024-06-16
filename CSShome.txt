@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda Online</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tienda Online</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="productos.html">Productos</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="informacion">
+            <h2>Sobre Nosotros</h2>
+            <p>Bienvenidos a nuestra tienda online, donde ofrecemos productos de alta calidad a precios asequibles.</p>
+            <img src="img/nosotros.jpg" alt="Foto de la empresa">
+        </section>
+        <section id="features">
+            <h2>Características</h2>
+            <ul>
+                <li>Productos de alta calidad</li>
+                <li>Envío rápido</li>
+                <li>Soporte al cliente 24/7</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Tienda Online</p>
+    </footer>
+</body>
+</html>
